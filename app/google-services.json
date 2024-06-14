@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "787010054524",
+    "project_id": "appbanhang-353c1",
+    "storage_bucket": "appbanhang-353c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787010054524:android:fa3ed84e39a23bda4a5cf9",
+        "android_client_info": {
+          "package_name": "hao.com.appbanhang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787010054524-3vlhrmtefc8dfordnjijoenpg9qmgiaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDANYRD_MPUX5TZcBWKeOSH6-l5Bs_nuKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787010054524-3vlhrmtefc8dfordnjijoenpg9qmgiaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787010054524:android:d9933a9ee502e6164a5cf9",
+        "android_client_info": {
+          "package_name": "hao.com.manager.appbanhang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787010054524-1irn0kj87h5hvsj67diiqldjfok8iq35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hao.com.manager.appbanhang",
+            "certificate_hash": "2147deec67b609bd454fcad350ad1cb79c090c9b"
+          }
+        },
+        {
+          "client_id": "787010054524-3vlhrmtefc8dfordnjijoenpg9qmgiaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDANYRD_MPUX5TZcBWKeOSH6-l5Bs_nuKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787010054524-3vlhrmtefc8dfordnjijoenpg9qmgiaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
